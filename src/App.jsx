@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   return (
-    <div className="min-h-screen bg-slate-950 antialiased">
+    <div className="min-h-screen bg-white antialiased">
       <Hero />
       <Features />
       <ProductGrid />
